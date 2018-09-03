@@ -1,0 +1,6 @@
+E:\PROGRAMMING\BankSystem\BLL\bin\Debug\BLL.dll
+E:\PROGRAMMING\BankSystem\BLL\bin\Debug\BLL.pdb
+E:\PROGRAMMING\BankSystem\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\PROGRAMMING\BankSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\BankSystem\BLL\obj\Debug\BLL.dll
+E:\PROGRAMMING\BankSystem\BLL\obj\Debug\BLL.pdb

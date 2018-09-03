@@ -1,0 +1,12 @@
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\ORM.dll.config
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\ORM.dll
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\ORM.pdb
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\EntityFramework.dll
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\EntityFramework.xml
+E:\PROGRAMMING\BankSystem\ORM\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\BankSystem\ORM\obj\Debug\ORM.csprojAssemblyReference.cache
+E:\PROGRAMMING\BankSystem\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\BankSystem\ORM\obj\Debug\ORM.csproj.CopyComplete
+E:\PROGRAMMING\BankSystem\ORM\obj\Debug\ORM.dll
+E:\PROGRAMMING\BankSystem\ORM\obj\Debug\ORM.pdb

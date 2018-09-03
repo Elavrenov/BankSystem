@@ -1,0 +1,6 @@
+E:\PROGRAMMING\BankSystem\BLL.Interfaces\bin\Debug\BLL.Interfaces.dll
+E:\PROGRAMMING\BankSystem\BLL.Interfaces\bin\Debug\BLL.Interfaces.pdb
+E:\PROGRAMMING\BankSystem\BLL.Interfaces\obj\Debug\BLL.Interfaces.csprojAssemblyReference.cache
+E:\PROGRAMMING\BankSystem\BLL.Interfaces\obj\Debug\BLL.Interfaces.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\BankSystem\BLL.Interfaces\obj\Debug\BLL.Interfaces.dll
+E:\PROGRAMMING\BankSystem\BLL.Interfaces\obj\Debug\BLL.Interfaces.pdb

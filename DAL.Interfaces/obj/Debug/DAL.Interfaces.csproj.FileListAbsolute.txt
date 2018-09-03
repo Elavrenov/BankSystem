@@ -1,0 +1,9 @@
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\bin\Debug\DAL.Interfaces.dll
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\bin\Debug\DAL.Interfaces.pdb
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\bin\Debug\BLL.Interfaces.dll
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\bin\Debug\BLL.Interfaces.pdb
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\obj\Debug\DAL.Interfaces.csprojAssemblyReference.cache
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\obj\Debug\DAL.Interfaces.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\obj\Debug\DAL.Interfaces.csproj.CopyComplete
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\obj\Debug\DAL.Interfaces.dll
+E:\PROGRAMMING\BankSystem\DAL.Interfaces\obj\Debug\DAL.Interfaces.pdb
